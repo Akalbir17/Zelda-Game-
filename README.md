@@ -10,7 +10,7 @@
 - [License](#license)
 
 ## Overview
-zeldaGame is a throwback Zelda clone developed using Pygame. It aims to recreate the classic Zelda gameplay experience with modern programming techniques. The game is currently in progress and serves as a fun project for learning game development with Pygame.
+Zelda Game is a throwback Zelda clone developed using Pygame. It aims to recreate the classic Zelda gameplay experience with modern programming techniques. The game is currently in progress and serves as a fun project for learning game development with Pygame.
 
 ## Features
 - Retro-style Zelda gameplay
